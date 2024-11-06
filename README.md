@@ -17,13 +17,6 @@
 ## :wrench:Network
 - nginx
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=ffca1a&height=50&section=header&text=HomePage&fontSize=30)  
-## [:globe_with_meridians:2mukee's lab](https://2mukee.tistory.com)
-- 공부 및 기술 블로그
-
-## [:globe_with_meridians:네이버 컴퓨터 정보 공유카페](https://cafe.naver.com/bagsingood1537)
-- 컴퓨터 관련 질문 / 견적 상담
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=ffca1a&height=50&section=header&text=Project&fontSize=30)  
 # [:label:이게뭐약](https://github.com/KNUT-Capstone-Design-team-1)
 ### :sparkles:Position: 팀장
@@ -65,3 +58,10 @@
 - 정보기기 운용 기능사
 - 컴퓨터 활용 2급
 - 빅데이터 실무 활용 능력 1급
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=ffca1a&height=50&section=header&text=HomePage&fontSize=30)  
+## [:globe_with_meridians:2mukee's lab](https://2mukee.tistory.com)
+- 공부 및 기술 블로그
+
+## [:globe_with_meridians:네이버 컴퓨터 정보 공유카페](https://cafe.naver.com/bagsingood1537)
+- 컴퓨터 관련 질문 / 견적 상담
