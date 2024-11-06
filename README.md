@@ -59,7 +59,7 @@ ___
 - [Hermes_Hub](https://github.com/HermesProj-KNUT/Hermes_Hub)
 - [Hermes_App](https://github.com/HermesProj-KNUT/Hermes_App)
 
-# certification
+# :memo:Certification
 - 정보 처리 기사
 - 리눅스 마스터 1급
 - PC 정비사 1급
