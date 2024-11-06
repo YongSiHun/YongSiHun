@@ -19,10 +19,10 @@
 
 ___
 # :globe_with_meridians:Home Page
-#### [2mukee's lab](https://2mukee.tistory.com)
+## [2mukee's lab](https://2mukee.tistory.com)
 - 공부 및 기술 블로그
 
-#### [네이버 컴퓨터 정보 공유카페](https://cafe.naver.com/bagsingood1537)
+## [네이버 컴퓨터 정보 공유카페](https://cafe.naver.com/bagsingood1537)
 - 컴퓨터 관련 질문 / 견적 상담
 
 ___
