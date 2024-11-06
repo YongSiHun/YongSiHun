@@ -39,7 +39,7 @@
 ### :sparkles:Position: 팀장
 ### :sparkles:Roll: 백엔드 개발 (JavaScript / Express)
 ### :sparkles:Contribution
-- Jenkins CI/CD
+- CI/CD (Jenkins)
 - [mohaemookji-backend](https://github.com/KNUT-Mohaemookji/mohaemookji-backend)
 
 # [:label:헤르메스(~2020)](https://github.com/HermesProj-KNUT)
