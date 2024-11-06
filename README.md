@@ -28,9 +28,9 @@ ___
 ___
 # :chart_with_upwards_trend:Project
 ## [이게뭐약](https://github.com/KNUT-Capstone-Design-team-1)
-#### Position: 팀장
-#### Roll: 데브옵스 / 백엔드 개발
-#### Contribution
+### Position: 팀장
+### Roll: 데브옵스 / 백엔드 개발
+### Contribution
 - 전 레포지터리 CI/CD 구축 (GitHub Action)
 - 서버리스 구축 및 SDK 연동 (Google Cloud Function 및 Google Cloud Run)
 - 리소스 스토리지 구축 및 연동 (Cloudflare R2)
@@ -44,18 +44,26 @@ ___
 - [wip-application-v1](https://github.com/KNUT-Capstone-Design-team-1/wip-application-v1)
 
 ## [모해묵지](https://github.com/KNUT-Mohaemookji)
-#### Position: 팀장
-#### Roll: 백엔드 개발 (JavaScript / Express)
-#### Contribution
+### Position: 팀장
+### Roll: 백엔드 개발 (JavaScript / Express)
+### Contribution
 - Jenkins CI/CD
 - [mohaemookji-backend](https://github.com/KNUT-Mohaemookji/mohaemookji-backend)
 
 ## [헤르메스](https://github.com/HermesProj-KNUT)
-#### Position: 팀장
-#### Roll: 애플리케이션 개발 (JavaScript / React-Native) / 임베디드 개발 (Python)
-#### Contribution
+### Position: 팀장
+### Roll: 애플리케이션 개발 (JavaScript / React-Native) / 임베디드 개발 (Python)
+### Contribution
 - 채팅 서버 구축 및 SDK 연동 (Firebase / FireStore)
 - 임베디드 음성인식 SDK 연동 (Google Cloud Speech)
 - [Hermes_Hub](https://github.com/HermesProj-KNUT/Hermes_Hub)
 - [Hermes_App](https://github.com/HermesProj-KNUT/Hermes_App)
 
+# certification
+- 정보 처리 기사
+- 리눅스 마스터 1급
+- PC 정비사 1급
+- 네트워크 관리사 2급
+- 정보기기 운용 기능사
+- 컴퓨터 활용 2급
+- 빅데이터 실무 활용 능력 1급
