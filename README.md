@@ -20,8 +20,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=ffca1a&height=50&section=header&text=Project&fontSize=30)  
 # [:label:이게뭐약](https://github.com/KNUT-Capstone-Design-team-1)
 ### :sparkles:Position: 팀장
-### :sparkles:Roll: 데브옵스 / 백엔드 개발
+### :sparkles:Roll: 데브옵스 / 백엔드 개발 (TypeScript)
 ### :sparkles:Contribution
+- 서버 컨테이너화 (Docker / Docker Compose)
 - 전 레포지터리 CI/CD 구축 (GitHub Action)
 - 서버리스 구축 및 SDK 연동 (Google Cloud Function 및 Google Cloud Run)
 - 리소스 스토리지 구축 및 연동 (Cloudflare R2)
