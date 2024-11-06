@@ -18,7 +18,7 @@
 - nginx
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=ffca1a&height=50&section=header&text=Project&fontSize=30)  
-# [:label:이게뭐약](https://github.com/KNUT-Capstone-Design-team-1)
+# [:label:이게뭐약(~2025)](https://github.com/KNUT-Capstone-Design-team-1)
 ### :sparkles:Position: 팀장
 ### :sparkles:Roll: 데브옵스 / 백엔드 개발 (TypeScript)
 ### :sparkles:Contribution
@@ -35,14 +35,14 @@
 - [wip-infra](https://github.com/KNUT-Capstone-Design-team-1/wip-infra)
 - [wip-application-v1](https://github.com/KNUT-Capstone-Design-team-1/wip-application-v1)
 
-# [:label:모해묵지](https://github.com/KNUT-Mohaemookji)
+# [:label:모해묵지(~2021)](https://github.com/KNUT-Mohaemookji)
 ### :sparkles:Position: 팀장
 ### :sparkles:Roll: 백엔드 개발 (JavaScript / Express)
 ### :sparkles:Contribution
 - Jenkins CI/CD
 - [mohaemookji-backend](https://github.com/KNUT-Mohaemookji/mohaemookji-backend)
 
-# [:label:헤르메스](https://github.com/HermesProj-KNUT)
+# [:label:헤르메스(~2020)](https://github.com/HermesProj-KNUT)
 ### :sparkles:Position: 팀장
 ### :sparkles:Roll: 애플리케이션 개발 (JavaScript / React-Native) / 임베디드 개발 (Python)
 ### :sparkles:Contribution
