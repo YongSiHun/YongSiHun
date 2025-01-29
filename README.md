@@ -67,5 +67,5 @@
 ## [:globe_with_meridians:2mukee's lab](https://2mukee.tistory.com)
 - 공부 및 기술 블로그
 
-## [:globe_with_meridians:네이버 컴퓨터 정보 공유카페](https://cafe.naver.com/bagsingood1537)
+## [:globe_with_meridians:네이버 컴퓨터 정보 공유카페(~2024)](https://cafe.naver.com/bagsingood1537)
 - 컴퓨터 관련 질문 / 견적 상담
