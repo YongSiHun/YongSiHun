@@ -3,9 +3,11 @@
 - JavaScript / TypeScript (Express / NestJS)
 
 ## :wrench:DevOps
-- Openstack (API)
 - Docker (Docker Compose / Docker Swarm)
 - CI/CD (GitLab CI / GitHub Action / Jenkins)
+
+## :wrench:Cloud
+- Openstack (API)
 - Google Cloud Platform (Google Cloud function / Google Cloud Run / Firebase / Firestore / SDK)
 - Cloudflare (R2 / Workers / D1 / SDK)
 - AWS (EC2 / Route53 / SDK)
