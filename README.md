@@ -23,7 +23,7 @@
 # [:label:이게뭐약(~2025)](https://github.com/KNUT-Capstone-Design-team-1)
 - 딥러닝을 활용한 알약 검색 애플리케이션
 ### :sparkles:Position: 팀장
-### :sparkles:Roll: 데브옵스 / 백엔드 개발 (TypeScript)
+### :sparkles:Roll: PM / 데브옵스 / 백엔드 개발 (TypeScript)
 ### :sparkles:Contribution
 - 서버 컨테이너화 (Docker / Docker Compose)
 - 전 레포지터리 CI/CD 구축 (GitHub Action)
