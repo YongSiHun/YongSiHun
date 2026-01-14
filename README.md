@@ -20,15 +20,16 @@
 - nginx
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=ffca1a&height=50&section=header&text=Project&fontSize=30)  
-# [:label:이게뭐약(~2025)](https://github.com/KNUT-Capstone-Design-team-1)
-- 딥러닝을 활용한 알약 검색 애플리케이션
+# [:label:이게뭐약(~2026)](https://github.com/KNUT-Capstone-Design-team-1)
+- AI를 활용한 알약 검색 애플리케이션
 ### :sparkles:Position: 팀장
-### :sparkles:Roll: PM / 데브옵스 / 백엔드 개발 (TypeScript)
+### :sparkles:Roll: PM / 데브옵스 / 백엔드 개발 (TypeScript) / 프론트엔드 개발 (ReactNative)
 ### :sparkles:Contribution
 - 서버 컨테이너화 (Docker / Docker Compose)
 - 전 레포지터리 CI/CD 구축 (GitHub Action)
 - 서버리스 구축 및 SDK 연동 (Google Cloud Function 및 Google Cloud Run)
 - 리소스 스토리지 구축 및 연동 (Cloudflare R2)
+- 애플리케이션 리팩토링
 - [wip-resource-deployer](http://github.com/KNUT-Capstone-Design-team-1)
 - [wip-resource-generator](https://github.com/KNUT-Capstone-Design-team-1/wip-resource-generator)
 - [wip-client](https://github.com/KNUT-Capstone-Design-team-1/wip-client)
