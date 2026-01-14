@@ -30,6 +30,7 @@
 - 서버리스 구축 및 SDK 연동 (Google Cloud Function 및 Google Cloud Run)
 - 리소스 스토리지 구축 및 연동 (Cloudflare R2)
 - 애플리케이션 리팩토링
+- [wip-application](https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2)
 - [wip-resource-deployer](http://github.com/KNUT-Capstone-Design-team-1)
 - [wip-resource-generator](https://github.com/KNUT-Capstone-Design-team-1/wip-resource-generator)
 - [wip-client](https://github.com/KNUT-Capstone-Design-team-1/wip-client)
