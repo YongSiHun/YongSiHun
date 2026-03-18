@@ -36,7 +36,7 @@
 - [시스템 아키텍처](https://github.com/KNUT-Capstone-Design-team-1/wip-document/blob/main/diagram/%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
 
 **Role**
-- 팀장 / PM / DevOps / Backend / Frontend (React Native)
+- 팀장 / PM / DevOps / Backend
 
 **Key Contributions**
 - Docker 기반 서버 컨테이너화
