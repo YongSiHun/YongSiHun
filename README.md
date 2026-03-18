@@ -1,10 +1,12 @@
-# 👋 Backend / DevOps Engineer
+# 👋 Backend Developer / DevOps Engineer
 
-서버리스 아키텍처와 DevOps를 기반으로  
+컨테이너 및 서버리스, DevOps를 기반으로  
 **서비스 설계부터 배포, 운영까지 End-to-End로 구축하는 개발자입니다.**
 
 - GCP / Cloudflare 기반 서버리스 아키텍처 설계 경험
 - Docker & CI/CD 기반 자동화된 배포 환경 구축
+- nginx 기반 웹 서버 라우팅 / TypeScript (Express, NestJS) 기반 애플리케이션 서버 개발
+- Bash 스크립트 기반 테스트 자동화
 
 
 ---
